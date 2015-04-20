@@ -16,6 +16,7 @@
   },
   "scripts": {},
   "dependencies": {
+    "bower": "^1.4.1",
     "html-loader": "^0.2.3"
   }
 }
