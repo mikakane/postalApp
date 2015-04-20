@@ -10,7 +10,7 @@
         "chatbox/postal-code": "dev-master"
     },
     "scripts": {
-        "pre-install-cmd":[
+        "compile":[
             "bower install",
             "composer clear-cache"
         ]
