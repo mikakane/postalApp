@@ -2,3 +2,4 @@
 /.sass-cache
 /public/bower_components
 /node_modules
+composer.lock
