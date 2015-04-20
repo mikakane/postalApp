@@ -7,7 +7,8 @@
         }
     ],
     "require": {
-        "chatbox/postal-code": "dev-master"
+      "ext-pdo_sqlite": "*",
+      "chatbox/postal-code": "dev-master"
     },
     "scripts": {
         "pre-install-cmd":[
