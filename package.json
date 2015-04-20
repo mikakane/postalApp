@@ -1,0 +1,21 @@
+{
+  "version": "0.0.0",
+  "private": true,
+  "name": "angularBootstrap",
+  "description": "my angular bootstrap template",
+  "repository": "https://github.com/mikakane/angular",
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.8.0",
+    "webpack": "^1.4.13",
+    "http-server": "^0.6.1",
+    "tmp": "0.0.23",
+    "bower": "^1.3.1",
+    "shelljs": "^0.2.6"
+  },
+  "scripts": {},
+  "dependencies": {
+    "html-loader": "^0.2.3"
+  }
+}

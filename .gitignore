@@ -1,0 +1,4 @@
+/vendor
+/.sass-cache
+/public/bower_components
+/node_modules

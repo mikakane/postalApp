@@ -1,0 +1,21 @@
+{
+    "name": "root/postal-app",
+    "authors": [
+        {
+            "name": "mikakane",
+            "email": "mikakane2@gmail.com"
+        }
+    ],
+    "require": {
+        "chatbox/postal-code": "dev-master"
+    },
+    "scripts": {
+        "pre-install-cmd":[
+            "bower install",
+            "composer clear-cache"
+        ]
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "dev-master"
+    }
+}
