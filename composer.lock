@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "61327363fcb270c7d7a909b0fc15e5d8",
+    "hash": "f08a01fd431a3e3e5406d205a65cc0bd",
     "packages": [
         {
             "name": "chatbox/phputil",
@@ -2602,6 +2602,8 @@
     },
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "ext-pdo_sqlite": "*"
+    },
     "platform-dev": []
 }
